@@ -32,3 +32,5 @@ With Get a Pet already live, He's now developing the backend of the same project
   <a href="https://www.linkedin.com/in/daniel-rodrigues-r/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRR76)](https://github.com/DanielRR76/github-readme-stats)
+
