@@ -10,7 +10,6 @@ In addition, he has developed personal projects like Get a Pet (React.js, Node.j
 With Get a Pet already live, He's now developing the backend of the same project using Spring Boot, following SOLID principles and Clean Architecture, and using MongoDB.
 
 - 🌱 I’m currently expanding my knowledge of React.js and Next.js.
-- 📫 How to reach me: daniyyelrodrigues@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
